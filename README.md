@@ -1,2 +1,1 @@
-<h1> Hi, I’m Dayana Jiménez, Developer👋 </h1>
-I'm Computer Systems Enginner
+<h1> Hi, I’m Dayana Jiménez, Software Enginner👋 </h1>
