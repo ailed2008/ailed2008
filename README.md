@@ -4,13 +4,15 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ailed2008&label=Profile%20views&color=0e75b6&style=flat-square" alt="ailed2008" />
 </p>
-
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ailed2008&theme=flat&row=1&column=6" alt="ailed2008" />
-  </a>
+  <!-- Tarjeta de Estadísticas Generales -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ailed2008&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
 </p>
 
+<p align="center">
+  <!-- Tarjeta de Racha de Commits -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ailed2008&theme=tokyonight&hide_border=true" alt="Racha de GitHub" />
+</p>
 ---
 
 ### 💬 About Me & Contact
