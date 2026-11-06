@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dayana Ailed Jiménez Copeño</h1>
+<h1 align="center">Hi, I'm Dayana Ailed Jiménez Copeño</h1>
 <h3 align="center">Desarrollador Full Stack Java Jr</h3>
 
 <p align="center">
