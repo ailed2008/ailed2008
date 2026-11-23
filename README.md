@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm Dayana Ailed Jiménez Copeño</h1>
-<h3 align="center">Desarrollador Full Stack Java Jr</h3>
+<h3 align="center">Desarrolladora de Software</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ailed2008&label=Profile%20views&color=0e75b6&style=flat-square" alt="ailed2008" />
